@@ -20,7 +20,7 @@ requests-oauthlib==1.2.0
 sqlparse==0.2.4
 stripe==2.27.0
 urllib3==1.24.2
-tensorflow==1.14.0
+tensorflow==1.15.4
 keras==2.2.4
 scikit-learn==0.21.2
 numpy==1.17.0
